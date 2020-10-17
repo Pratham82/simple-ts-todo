@@ -34,6 +34,7 @@
   background: #007acc;
   color: white;
   transition: 0.3s;
+  outline: none;
 }
 
 .submitBtn:hover {
@@ -46,4 +47,5 @@ input {
   margin-right: 10px;
   border: none;
   border-bottom: 1px solid;
+  outline: none;
 }
