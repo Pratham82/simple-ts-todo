@@ -40,3 +40,10 @@
   background: #0296fd;
   cursor: pointer;
 }
+
+input {
+  padding: 5px 15px 5px 0;
+  margin-right: 10px;
+  border: none;
+  border-bottom: 1px solid;
+}
