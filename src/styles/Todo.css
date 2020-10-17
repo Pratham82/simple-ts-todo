@@ -1,0 +1,42 @@
+.completed {
+  text-decoration: line-through;
+}
+
+.title {
+  text-align: center;
+  font-size: 30px;
+  font-weight: normal;
+}
+
+.base {
+  margin: 10px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.innerContainer {
+  margin: 0 auto;
+}
+
+.listStyle {
+  list-style-type: none;
+}
+
+.submitBtn {
+  margin-left: 10px;
+  border: none;
+  border-radius: 9px;
+  padding: 8px 9px;
+  background: #007acc;
+  color: white;
+  transition: 0.3s;
+}
+
+.submitBtn:hover {
+  background: #0296fd;
+  cursor: pointer;
+}
